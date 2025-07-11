@@ -1,0 +1,1501 @@
+CropName,SoilType,Disease,Treatment,Practice,Region,GrowthDuration,OptimalTemp
+Maize,Red Loamy,Smut,Resistant Varieties,Mulching,Chitradurga,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Mulching,Raichur,90 days,20–25°C
+Rice,Alluvial,Smut,Fungicide Spray,SRI Method,Ballari,120 days,30–35°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Mulching,Ballari,120 days,20–25°C
+Rice,Black Cotton,Blast,Crop Rotation,Drip Irrigation,Vijayapura,150 days,25–30°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Kodagu,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Bengaluru Rural,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Dakshina Kannada,180 days,30–35°C
+Rice,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Kalaburagi,120 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Dharwad,90 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Kalaburagi,120 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Chikkamagaluru,90 days,25–30°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Bengaluru Rural,120 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Organic Farming,Kalaburagi,120 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Udupi,120 days,30–35°C
+Rice,Red Loamy,Smut,Fungicide Spray,SRI Method,Mandya,150 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Kodagu,90 days,30–35°C
+Groundnut,Alluvial,Rust,Crop Rotation,Organic Farming,Kalaburagi,120 days,25–30°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Vijayapura,150 days,25–30°C
+Rice,Red Loamy,Blast,Resistant Varieties,SRI Method,Mandya,180 days,30–35°C
+Rice,Alluvial,Smut,Crop Rotation,SRI Method,Udupi,180 days,25–30°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Mandya,150 days,25–30°C
+Rice,Red Loamy,Smut,Fungicide Spray,SRI Method,Bengaluru Rural,120 days,25–30°C
+Maize,Black Cotton,Rust,Fungicide Spray,Drip Irrigation,Udupi,120 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Shivamogga,90 days,30–35°C
+Maize,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Davangere,90 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Organic Farming,Davangere,120 days,25–30°C
+Groundnut,Laterite,Wilt,Crop Rotation,Mulching,Mysuru,150 days,25–30°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Shivamogga,90 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Tumakuru,180 days,30–35°C
+Rice,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Mandya,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Udupi,180 days,30–35°C
+Groundnut,Laterite,Rust,Crop Rotation,Mulching,Bengaluru Urban,150 days,25–30°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Udupi,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Chitradurga,120 days,20–25°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Belagavi,90 days,25–30°C
+Rice,Alluvial,Blast,Resistant Varieties,SRI Method,Davangere,120 days,30–35°C
+Rice,Red Loamy,Blast,Resistant Varieties,SRI Method,Davangere,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Kalaburagi,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Tumakuru,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Drip Irrigation,Shivamogga,180 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Raichur,120 days,25–30°C
+Groundnut,Laterite,Wilt,Fungicide Spray,Organic Farming,Mysuru,120 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Chitradurga,120 days,20–25°C
+Rice,Red Loamy,Blast,Crop Rotation,Drip Irrigation,Udupi,120 days,25–30°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Kolar,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Mulching,Mysuru,180 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Bagalkote,120 days,25–30°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Kalaburagi,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Bagalkote,120 days,25–30°C
+Groundnut,Laterite,Rust,Crop Rotation,Organic Farming,Shivamogga,120 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Kodagu,150 days,30–35°C
+Groundnut,Laterite,Wilt,Fungicide Spray,Organic Farming,Tumakuru,150 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Organic Farming,Vijayapura,120 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Mandya,90 days,25–30°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Organic Farming,Vijayapura,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Mulching,Mandya,90 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Chikkamagaluru,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Organic Farming,Chitradurga,120 days,25–30°C
+Maize,Red Loamy,Smut,Resistant Varieties,Mulching,Bagalkote,150 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Dakshina Kannada,120 days,20–25°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Shivamogga,90 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Bagalkote,90 days,30–35°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Mandya,90 days,20–25°C
+Rice,Black Cotton,Blast,Crop Rotation,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Dharwad,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Tumakuru,180 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Dakshina Kannada,90 days,20–25°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Chitradurga,90 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Dakshina Kannada,90 days,30–35°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Mandya,90 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Vijayapura,90 days,25–30°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Raichur,90 days,25–30°C
+Groundnut,Laterite,Rust,Crop Rotation,Mulching,Dakshina Kannada,120 days,25–30°C
+Rice,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Davangere,150 days,25–30°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Mulching,Mysuru,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Mandya,90 days,20–25°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Vijayapura,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Bagalkote,90 days,30–35°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Chitradurga,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Raichur,180 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Shivamogga,150 days,30–35°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Organic Farming,Belagavi,150 days,25–30°C
+Rice,Red Loamy,Blast,Resistant Varieties,Drip Irrigation,Shivamogga,180 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Vijayapura,90 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Tumakuru,120 days,20–25°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Vijayapura,180 days,30–35°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Vijayapura,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Kalaburagi,180 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Raichur,90 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Shivamogga,180 days,30–35°C
+Rice,Black Cotton,Blast,Crop Rotation,Drip Irrigation,Dharwad,150 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Udupi,120 days,25–30°C
+Rice,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Dharwad,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Udupi,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Organic Farming,Dharwad,120 days,25–30°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Chikkamagaluru,120 days,25–30°C
+Rice,Alluvial,Smut,Crop Rotation,SRI Method,Bengaluru Rural,120 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Belagavi,120 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Kalaburagi,120 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Mysuru,120 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Ballari,90 days,25–30°C
+Maize,Black Cotton,Smut,Resistant Varieties,Mulching,Chitradurga,90 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Mulching,Kalaburagi,180 days,30–35°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Belagavi,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Kalaburagi,90 days,20–25°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Chikkamagaluru,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Vijayapura,150 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Raichur,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Dharwad,90 days,20–25°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Udupi,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Kolar,180 days,30–35°C
+Rice,Black Cotton,Blast,Fungicide Spray,SRI Method,Kolar,120 days,25–30°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Vijayapura,90 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Davangere,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Bagalkote,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Rice,Alluvial,Blast,Crop Rotation,Drip Irrigation,Udupi,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Tumakuru,120 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Kalaburagi,120 days,20–25°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Mulching,Kodagu,180 days,30–35°C
+Groundnut,Laterite,Rust,Resistant Varieties,Mulching,Shivamogga,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Kodagu,180 days,30–35°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Bagalkote,120 days,25–30°C
+Groundnut,Laterite,Rust,Fungicide Spray,Mulching,Chikkamagaluru,120 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Vijayapura,90 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Bengaluru Rural,90 days,20–25°C
+Rice,Alluvial,Smut,Crop Rotation,Drip Irrigation,Vijayapura,120 days,30–35°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Chitradurga,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Ballari,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Davangere,90 days,20–25°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Mulching,Raichur,120 days,25–30°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Raichur,90 days,30–35°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Organic Farming,Shivamogga,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Davangere,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Tumakuru,180 days,30–35°C
+Rice,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Udupi,120 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Mandya,150 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Mysuru,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Davangere,120 days,25–30°C
+Groundnut,Laterite,Wilt,Crop Rotation,Mulching,Shivamogga,120 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Vijayapura,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Mysuru,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Chitradurga,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Vijayapura,180 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Raichur,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Mulching,Vijayapura,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Mulching,Kodagu,120 days,25–30°C
+Groundnut,Laterite,Wilt,Crop Rotation,Organic Farming,Kodagu,120 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Belagavi,120 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Udupi,150 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Raichur,90 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Dakshina Kannada,90 days,25–30°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Organic Farming,Ballari,90 days,25–30°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Kolar,120 days,20–25°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Belagavi,180 days,30–35°C
+Rice,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Bengaluru Rural,180 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Mysuru,90 days,25–30°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Bagalkote,150 days,25–30°C
+Rice,Alluvial,Smut,Crop Rotation,Drip Irrigation,Mandya,150 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Kolar,90 days,25–30°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Mulching,Udupi,90 days,20–25°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Mandya,180 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Vijayapura,90 days,25–30°C
+Groundnut,Alluvial,Rust,Fungicide Spray,Mulching,Belagavi,120 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Udupi,90 days,25–30°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Mulching,Kalaburagi,180 days,30–35°C
+Rice,Alluvial,Blast,Resistant Varieties,SRI Method,Belagavi,150 days,25–30°C
+Rice,Alluvial,Smut,Fungicide Spray,SRI Method,Bengaluru Urban,180 days,25–30°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Mulching,Ballari,180 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Shivamogga,90 days,30–35°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Mulching,Ballari,180 days,30–35°C
+Rice,Red Loamy,Blast,Resistant Varieties,SRI Method,Kolar,120 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Chikkamagaluru,90 days,20–25°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Organic Farming,Bengaluru Rural,150 days,25–30°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Mulching,Kolar,150 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Tumakuru,120 days,30–35°C
+Rice,Alluvial,Blast,Resistant Varieties,Drip Irrigation,Davangere,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Udupi,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Kodagu,150 days,25–30°C
+Rice,Red Loamy,Blast,Crop Rotation,SRI Method,Kolar,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Mulching,Kolar,180 days,30–35°C
+Rice,Red Loamy,Smut,Fungicide Spray,SRI Method,Bengaluru Urban,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Ballari,180 days,30–35°C
+Groundnut,Alluvial,Rust,Fungicide Spray,Mulching,Davangere,120 days,25–30°C
+Groundnut,Laterite,Wilt,Fungicide Spray,Organic Farming,Dharwad,150 days,25–30°C
+Rice,Black Cotton,Blast,Resistant Varieties,SRI Method,Dakshina Kannada,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Organic Farming,Shivamogga,120 days,25–30°C
+Rice,Black Cotton,Blast,Crop Rotation,SRI Method,Kolar,120 days,30–35°C
+Rice,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Vijayapura,150 days,25–30°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Davangere,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Vijayapura,180 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Chikkamagaluru,90 days,25–30°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Ballari,150 days,25–30°C
+Rice,Alluvial,Blast,Crop Rotation,Drip Irrigation,Chitradurga,150 days,25–30°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Ballari,150 days,25–30°C
+Rice,Black Cotton,Blast,Crop Rotation,SRI Method,Ballari,120 days,25–30°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Mulching,Chikkamagaluru,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Udupi,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Mulching,Mysuru,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Belagavi,120 days,25–30°C
+Groundnut,Laterite,Rust,Resistant Varieties,Organic Farming,Kalaburagi,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Drip Irrigation,Ballari,180 days,30–35°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Mandya,120 days,30–35°C
+Rice,Black Cotton,Blast,Resistant Varieties,SRI Method,Bagalkote,120 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Bagalkote,90 days,20–25°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Vijayapura,150 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Dharwad,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Kodagu,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Kalaburagi,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Mulching,Kolar,150 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Ballari,90 days,25–30°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Mulching,Ballari,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Bengaluru Rural,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Belagavi,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Mulching,Belagavi,150 days,25–30°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Dharwad,120 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Udupi,120 days,25–30°C
+Rice,Red Loamy,Blast,Crop Rotation,Drip Irrigation,Bagalkote,150 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Mysuru,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Raichur,180 days,30–35°C
+Rice,Alluvial,Blast,Fungicide Spray,Drip Irrigation,Shivamogga,150 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Kalaburagi,150 days,25–30°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Mulching,Ballari,150 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Shivamogga,90 days,25–30°C
+Rice,Red Loamy,Blast,Resistant Varieties,SRI Method,Dharwad,150 days,25–30°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Tumakuru,90 days,20–25°C
+Groundnut,Laterite,Rust,Fungicide Spray,Organic Farming,Tumakuru,150 days,25–30°C
+Groundnut,Laterite,Rust,Resistant Varieties,Organic Farming,Raichur,120 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Davangere,90 days,25–30°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Chitradurga,150 days,25–30°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Chitradurga,120 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Mulching,Tumakuru,180 days,30–35°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Chikkamagaluru,150 days,25–30°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Chitradurga,90 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Bengaluru Rural,180 days,30–35°C
+Groundnut,Alluvial,Rust,Crop Rotation,Organic Farming,Vijayapura,120 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Drip Irrigation,Raichur,90 days,25–30°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Mulching,Shivamogga,150 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Tumakuru,90 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Chitradurga,150 days,30–35°C
+Rice,Red Loamy,Blast,Crop Rotation,Drip Irrigation,Vijayapura,150 days,25–30°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Mulching,Vijayapura,120 days,25–30°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Raichur,90 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Bengaluru Urban,90 days,25–30°C
+Rice,Black Cotton,Blast,Crop Rotation,SRI Method,Bagalkote,180 days,30–35°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Dakshina Kannada,90 days,30–35°C
+Groundnut,Laterite,Rust,Resistant Varieties,Organic Farming,Vijayapura,120 days,25–30°C
+Rice,Alluvial,Blast,Resistant Varieties,Drip Irrigation,Ballari,120 days,25–30°C
+Rice,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Tumakuru,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Mysuru,120 days,20–25°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Organic Farming,Mandya,90 days,20–25°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Bengaluru Rural,120 days,20–25°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Tumakuru,120 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Drip Irrigation,Davangere,120 days,25–30°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Organic Farming,Kodagu,150 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Bengaluru Urban,120 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Drip Irrigation,Dharwad,150 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Dharwad,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Chikkamagaluru,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Vijayapura,150 days,25–30°C
+Rice,Red Loamy,Blast,Resistant Varieties,Drip Irrigation,Mandya,150 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Kolar,180 days,30–35°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Kolar,150 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Kalaburagi,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Organic Farming,Kodagu,120 days,20–25°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Chitradurga,180 days,30–35°C
+Rice,Red Loamy,Blast,Resistant Varieties,Drip Irrigation,Tumakuru,120 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Chikkamagaluru,120 days,30–35°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Tumakuru,180 days,30–35°C
+Rice,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Bengaluru Urban,120 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Ballari,90 days,20–25°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Organic Farming,Udupi,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Mandya,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Mulching,Kalaburagi,120 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Bengaluru Urban,120 days,30–35°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Mulching,Belagavi,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Mulching,Tumakuru,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Ballari,180 days,30–35°C
+Rice,Red Loamy,Smut,Crop Rotation,SRI Method,Shivamogga,180 days,25–30°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Ballari,150 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Kolar,120 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Shivamogga,150 days,30–35°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Kolar,120 days,20–25°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Mysuru,90 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Chitradurga,180 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Dakshina Kannada,120 days,20–25°C
+Rice,Alluvial,Blast,Resistant Varieties,SRI Method,Tumakuru,180 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Vijayapura,90 days,30–35°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Dakshina Kannada,180 days,30–35°C
+Rice,Black Cotton,Blast,Crop Rotation,SRI Method,Bagalkote,180 days,30–35°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Dakshina Kannada,120 days,25–30°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Ballari,120 days,25–30°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Mulching,Mandya,120 days,25–30°C
+Rice,Alluvial,Blast,Resistant Varieties,Drip Irrigation,Belagavi,120 days,25–30°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Organic Farming,Bengaluru Urban,150 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Drip Irrigation,Raichur,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Kodagu,90 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Organic Farming,Chikkamagaluru,120 days,25–30°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Vijayapura,90 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Kolar,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Kolar,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Davangere,120 days,20–25°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Davangere,90 days,25–30°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Ballari,150 days,25–30°C
+Rice,Red Loamy,Blast,Resistant Varieties,SRI Method,Tumakuru,180 days,25–30°C
+Rice,Red Loamy,Smut,Resistant Varieties,SRI Method,Udupi,150 days,25–30°C
+Groundnut,Laterite,Rust,Resistant Varieties,Organic Farming,Mandya,150 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Chitradurga,90 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Raichur,180 days,30–35°C
+Maize,Red Loamy,Smut,Resistant Varieties,Mulching,Dakshina Kannada,90 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Shivamogga,90 days,30–35°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Mulching,Dakshina Kannada,180 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Ballari,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Dharwad,180 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Tumakuru,120 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Shivamogga,120 days,25–30°C
+Groundnut,Laterite,Wilt,Fungicide Spray,Mulching,Kodagu,120 days,25–30°C
+Groundnut,Laterite,Rust,Crop Rotation,Mulching,Bengaluru Rural,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Rice,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Chitradurga,120 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Bengaluru Urban,150 days,30–35°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Bengaluru Rural,120 days,25–30°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Shivamogga,90 days,20–25°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Dakshina Kannada,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Ballari,180 days,30–35°C
+Rice,Red Loamy,Blast,Resistant Varieties,Drip Irrigation,Ballari,150 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Bengaluru Rural,180 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Bengaluru Rural,150 days,30–35°C
+Rice,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Rice,Alluvial,Blast,Fungicide Spray,SRI Method,Mysuru,150 days,30–35°C
+Maize,Red Loamy,Rust,Crop Rotation,Drip Irrigation,Belagavi,120 days,30–35°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Organic Farming,Bengaluru Rural,120 days,25–30°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Kodagu,90 days,20–25°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Raichur,120 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Kalaburagi,120 days,25–30°C
+Rice,Red Loamy,Blast,Resistant Varieties,SRI Method,Belagavi,120 days,25–30°C
+Groundnut,Laterite,Wilt,Fungicide Spray,Organic Farming,Kalaburagi,120 days,25–30°C
+Rice,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Kodagu,180 days,25–30°C
+Rice,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Udupi,150 days,30–35°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Chikkamagaluru,90 days,20–25°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Mandya,180 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Bengaluru Urban,150 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Mulching,Bagalkote,120 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Mandya,90 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Bengaluru Urban,180 days,30–35°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Mandya,90 days,25–30°C
+Rice,Red Loamy,Blast,Crop Rotation,SRI Method,Udupi,180 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Dharwad,90 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Mandya,180 days,30–35°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Kodagu,150 days,25–30°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Mulching,Ballari,120 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Shivamogga,120 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Mysuru,150 days,30–35°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Bengaluru Urban,180 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Bagalkote,90 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Dharwad,90 days,25–30°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Mandya,120 days,20–25°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Belagavi,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Organic Farming,Raichur,120 days,20–25°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Davangere,120 days,25–30°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Organic Farming,Belagavi,150 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Chikkamagaluru,150 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Ballari,180 days,30–35°C
+Rice,Red Loamy,Blast,Fungicide Spray,Drip Irrigation,Kalaburagi,150 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Mysuru,150 days,25–30°C
+Rice,Alluvial,Blast,Crop Rotation,Drip Irrigation,Udupi,180 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Bengaluru Rural,120 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Bengaluru Rural,90 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Kalaburagi,120 days,20–25°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Ballari,180 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Kalaburagi,120 days,30–35°C
+Rice,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Dakshina Kannada,150 days,30–35°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Organic Farming,Kolar,90 days,20–25°C
+Rice,Alluvial,Smut,Resistant Varieties,SRI Method,Tumakuru,150 days,25–30°C
+Rice,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Kodagu,150 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Mysuru,90 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Mandya,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Chikkamagaluru,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Mulching,Kolar,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Bengaluru Rural,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Mulching,Udupi,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Chitradurga,180 days,30–35°C
+Groundnut,Laterite,Rust,Crop Rotation,Organic Farming,Shivamogga,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Tumakuru,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Shivamogga,90 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Mysuru,180 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Davangere,120 days,20–25°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Chitradurga,90 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Drip Irrigation,Chikkamagaluru,150 days,30–35°C
+Rice,Alluvial,Smut,Crop Rotation,Drip Irrigation,Kolar,150 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Dharwad,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Ballari,180 days,30–35°C
+Groundnut,Laterite,Rust,Resistant Varieties,Organic Farming,Dakshina Kannada,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Tumakuru,180 days,30–35°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Udupi,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Kalaburagi,90 days,20–25°C
+Groundnut,Alluvial,Rust,Crop Rotation,Mulching,Mysuru,120 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Vijayapura,90 days,30–35°C
+Rice,Black Cotton,Blast,Fungicide Spray,Drip Irrigation,Belagavi,150 days,30–35°C
+Rice,Red Loamy,Blast,Fungicide Spray,Drip Irrigation,Bagalkote,120 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Mandya,150 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Belagavi,120 days,20–25°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Ballari,120 days,20–25°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Dharwad,120 days,20–25°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Vijayapura,90 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Mulching,Bagalkote,120 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Mulching,Ballari,150 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Chikkamagaluru,150 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Ballari,120 days,30–35°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Mulching,Chikkamagaluru,120 days,25–30°C
+Groundnut,Laterite,Wilt,Crop Rotation,Mulching,Bengaluru Urban,120 days,25–30°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Organic Farming,Tumakuru,150 days,25–30°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Mulching,Kodagu,120 days,25–30°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Mulching,Mandya,90 days,20–25°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Shivamogga,120 days,20–25°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Mulching,Bengaluru Rural,90 days,25–30°C
+Rice,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Chitradurga,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Udupi,180 days,30–35°C
+Groundnut,Laterite,Rust,Crop Rotation,Organic Farming,Raichur,150 days,25–30°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Raichur,90 days,20–25°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Kalaburagi,180 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Bagalkote,120 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Bengaluru Rural,90 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Kalaburagi,120 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Dharwad,150 days,30–35°C
+Groundnut,Laterite,Wilt,Crop Rotation,Mulching,Dakshina Kannada,150 days,25–30°C
+Groundnut,Laterite,Rust,Fungicide Spray,Mulching,Bengaluru Rural,120 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Dakshina Kannada,90 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Ballari,180 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Dharwad,120 days,25–30°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Organic Farming,Raichur,90 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Organic Farming,Mandya,150 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Raichur,120 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Bengaluru Urban,150 days,25–30°C
+Groundnut,Laterite,Rust,Crop Rotation,Mulching,Bengaluru Rural,150 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Drip Irrigation,Ballari,150 days,30–35°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Udupi,180 days,30–35°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Bengaluru Urban,150 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Mandya,90 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Bagalkote,90 days,30–35°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Chikkamagaluru,180 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Mysuru,90 days,20–25°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Drip Irrigation,Mandya,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Kodagu,120 days,20–25°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Mulching,Ballari,180 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Shivamogga,120 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Bengaluru Urban,120 days,20–25°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Bengaluru Urban,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Organic Farming,Davangere,120 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Belagavi,120 days,25–30°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Raichur,120 days,25–30°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Ballari,90 days,25–30°C
+Rice,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Raichur,120 days,25–30°C
+Groundnut,Laterite,Rust,Crop Rotation,Organic Farming,Dakshina Kannada,150 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Vijayapura,120 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Vijayapura,90 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Shivamogga,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Mandya,90 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Vijayapura,120 days,30–35°C
+Rice,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Bagalkote,150 days,25–30°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Mulching,Dharwad,150 days,25–30°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Bengaluru Rural,180 days,25–30°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Organic Farming,Vijayapura,150 days,25–30°C
+Rice,Black Cotton,Blast,Crop Rotation,SRI Method,Chitradurga,150 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Bagalkote,90 days,20–25°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Mulching,Bengaluru Rural,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Shivamogga,180 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Drip Irrigation,Davangere,150 days,30–35°C
+Rice,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Chitradurga,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Mulching,Vijayapura,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Belagavi,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Mulching,Chitradurga,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Mulching,Kalaburagi,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Bengaluru Rural,180 days,30–35°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Davangere,90 days,25–30°C
+Rice,Black Cotton,Blast,Resistant Varieties,SRI Method,Belagavi,120 days,30–35°C
+Rice,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Mysuru,120 days,25–30°C
+Rice,Red Loamy,Blast,Fungicide Spray,Drip Irrigation,Belagavi,150 days,30–35°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Mulching,Mandya,120 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Kolar,90 days,20–25°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Udupi,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Ballari,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Drip Irrigation,Kolar,180 days,30–35°C
+Rice,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Dakshina Kannada,150 days,30–35°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Davangere,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Belagavi,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Bengaluru Rural,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Mulching,Bengaluru Urban,180 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Dakshina Kannada,90 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Chitradurga,120 days,25–30°C
+Rice,Alluvial,Blast,Fungicide Spray,SRI Method,Chikkamagaluru,120 days,30–35°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Mulching,Kodagu,90 days,20–25°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Bengaluru Urban,120 days,25–30°C
+Rice,Alluvial,Blast,Resistant Varieties,SRI Method,Kolar,120 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Dharwad,150 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Raichur,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Ballari,180 days,30–35°C
+Rice,Red Loamy,Blast,Crop Rotation,SRI Method,Kolar,180 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Shivamogga,120 days,25–30°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Organic Farming,Bengaluru Urban,120 days,25–30°C
+Rice,Alluvial,Smut,Crop Rotation,Drip Irrigation,Dharwad,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Bengaluru Urban,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Organic Farming,Shivamogga,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Ballari,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Mulching,Chitradurga,150 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Drip Irrigation,Bengaluru Rural,90 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Bagalkote,90 days,30–35°C
+Rice,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Tumakuru,120 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Chikkamagaluru,150 days,30–35°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Kolar,180 days,25–30°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Shivamogga,120 days,20–25°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Chitradurga,120 days,25–30°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Mulching,Belagavi,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Udupi,180 days,30–35°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Chitradurga,90 days,25–30°C
+Rice,Alluvial,Smut,Fungicide Spray,SRI Method,Ballari,150 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Shivamogga,180 days,30–35°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Tumakuru,90 days,20–25°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Mulching,Kalaburagi,90 days,20–25°C
+Rice,Black Cotton,Blast,Fungicide Spray,SRI Method,Chikkamagaluru,150 days,30–35°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Ballari,120 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Vijayapura,120 days,25–30°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Shivamogga,120 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Chitradurga,120 days,20–25°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Mulching,Bengaluru Urban,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Bengaluru Rural,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Davangere,180 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Raichur,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Mandya,180 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Dharwad,120 days,25–30°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Kodagu,120 days,30–35°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Tumakuru,150 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Bengaluru Rural,120 days,25–30°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Belagavi,120 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Vijayapura,90 days,25–30°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Organic Farming,Ballari,120 days,25–30°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Organic Farming,Dakshina Kannada,150 days,25–30°C
+Rice,Black Cotton,Blast,Fungicide Spray,SRI Method,Vijayapura,150 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Kodagu,180 days,30–35°C
+Groundnut,Laterite,Rust,Fungicide Spray,Mulching,Raichur,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Bengaluru Rural,90 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Shivamogga,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Kolar,90 days,25–30°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Mandya,90 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Raichur,90 days,20–25°C
+Maize,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Shivamogga,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Udupi,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Mysuru,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Drip Irrigation,Mandya,180 days,30–35°C
+Groundnut,Alluvial,Rust,Fungicide Spray,Mulching,Raichur,150 days,25–30°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Mulching,Chitradurga,150 days,25–30°C
+Groundnut,Laterite,Rust,Crop Rotation,Organic Farming,Davangere,120 days,25–30°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Bengaluru Urban,180 days,25–30°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Mulching,Kolar,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Belagavi,180 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Bengaluru Urban,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Vijayapura,180 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Dharwad,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Chitradurga,180 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Drip Irrigation,Shivamogga,150 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Mulching,Tumakuru,180 days,30–35°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Bengaluru Rural,120 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Davangere,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Chitradurga,90 days,20–25°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Chitradurga,90 days,25–30°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Belagavi,180 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Drip Irrigation,Kolar,90 days,30–35°C
+Groundnut,Alluvial,Rust,Crop Rotation,Organic Farming,Bengaluru Rural,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Bengaluru Urban,180 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Kolar,120 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Dakshina Kannada,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Davangere,120 days,20–25°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Mulching,Mandya,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Vijayapura,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Shivamogga,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Chikkamagaluru,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Tumakuru,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Mandya,120 days,20–25°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Dharwad,150 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Dakshina Kannada,150 days,25–30°C
+Rice,Red Loamy,Smut,Fungicide Spray,SRI Method,Bagalkote,150 days,30–35°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Drip Irrigation,Mandya,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Organic Farming,Shivamogga,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Raichur,180 days,30–35°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Bengaluru Urban,120 days,30–35°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Belagavi,120 days,20–25°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Mulching,Belagavi,120 days,25–30°C
+Rice,Red Loamy,Blast,Resistant Varieties,Drip Irrigation,Shivamogga,150 days,30–35°C
+Rice,Alluvial,Smut,Resistant Varieties,SRI Method,Shivamogga,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Davangere,120 days,30–35°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Kolar,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Bengaluru Urban,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Mulching,Shivamogga,150 days,25–30°C
+Groundnut,Laterite,Rust,Crop Rotation,Mulching,Raichur,120 days,25–30°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Chitradurga,90 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Ballari,90 days,25–30°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Bagalkote,90 days,25–30°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Organic Farming,Udupi,150 days,25–30°C
+Rice,Alluvial,Smut,Crop Rotation,SRI Method,Kodagu,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Bagalkote,180 days,30–35°C
+Groundnut,Laterite,Rust,Crop Rotation,Organic Farming,Udupi,150 days,25–30°C
+Rice,Alluvial,Blast,Fungicide Spray,Drip Irrigation,Bengaluru Urban,150 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Udupi,120 days,25–30°C
+Rice,Red Loamy,Smut,Crop Rotation,SRI Method,Mysuru,180 days,30–35°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Chitradurga,150 days,25–30°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Organic Farming,Kolar,120 days,25–30°C
+Rice,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Udupi,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Belagavi,150 days,25–30°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Tumakuru,90 days,25–30°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Organic Farming,Udupi,120 days,25–30°C
+Rice,Alluvial,Smut,Fungicide Spray,SRI Method,Tumakuru,120 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Kalaburagi,150 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Dakshina Kannada,150 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Organic Farming,Udupi,150 days,25–30°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Dharwad,120 days,20–25°C
+Rice,Red Loamy,Blast,Crop Rotation,SRI Method,Mysuru,180 days,25–30°C
+Rice,Alluvial,Blast,Fungicide Spray,Drip Irrigation,Chitradurga,150 days,30–35°C
+Rice,Red Loamy,Blast,Fungicide Spray,SRI Method,Raichur,180 days,25–30°C
+Rice,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Bengaluru Urban,180 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Mandya,90 days,25–30°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Mysuru,150 days,25–30°C
+Groundnut,Laterite,Wilt,Crop Rotation,Mulching,Kalaburagi,120 days,25–30°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Dharwad,150 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Bengaluru Urban,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Kolar,120 days,20–25°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Davangere,180 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Ballari,90 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Mulching,Kolar,150 days,25–30°C
+Groundnut,Laterite,Wilt,Fungicide Spray,Mulching,Chikkamagaluru,150 days,25–30°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Udupi,150 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Chitradurga,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Raichur,180 days,30–35°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Organic Farming,Davangere,120 days,25–30°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Dharwad,150 days,25–30°C
+Rice,Black Cotton,Blast,Fungicide Spray,Drip Irrigation,Kolar,180 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Mulching,Udupi,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Mulching,Kolar,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Kolar,120 days,25–30°C
+Rice,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Mandya,180 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Kalaburagi,150 days,30–35°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Mulching,Mysuru,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Bengaluru Rural,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Udupi,180 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Raichur,90 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Shivamogga,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Organic Farming,Kalaburagi,120 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Bengaluru Urban,90 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Ballari,90 days,20–25°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Bagalkote,150 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Mysuru,120 days,25–30°C
+Rice,Black Cotton,Blast,Fungicide Spray,Drip Irrigation,Raichur,180 days,25–30°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Mulching,Bengaluru Rural,90 days,25–30°C
+Rice,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Mysuru,180 days,25–30°C
+Rice,Black Cotton,Blast,Fungicide Spray,SRI Method,Bengaluru Urban,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Mulching,Tumakuru,180 days,30–35°C
+Rice,Alluvial,Smut,Resistant Varieties,SRI Method,Dharwad,180 days,25–30°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Organic Farming,Bengaluru Rural,120 days,20–25°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Chitradurga,180 days,25–30°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Mandya,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Mulching,Mysuru,180 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Dharwad,150 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Mulching,Kolar,150 days,25–30°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Davangere,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Vijayapura,180 days,30–35°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Bagalkote,150 days,25–30°C
+Maize,Black Cotton,Rust,Fungicide Spray,Drip Irrigation,Raichur,150 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Shivamogga,90 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Drip Irrigation,Shivamogga,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Raichur,180 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Raichur,120 days,30–35°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Dharwad,90 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Bagalkote,150 days,25–30°C
+Rice,Red Loamy,Smut,Fungicide Spray,SRI Method,Kolar,120 days,25–30°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Organic Farming,Bengaluru Urban,150 days,25–30°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Vijayapura,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Dakshina Kannada,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Mulching,Belagavi,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Mulching,Belagavi,150 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Kolar,90 days,30–35°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Organic Farming,Chikkamagaluru,90 days,20–25°C
+Rice,Alluvial,Blast,Resistant Varieties,SRI Method,Kalaburagi,120 days,25–30°C
+Rice,Alluvial,Blast,Fungicide Spray,SRI Method,Davangere,150 days,30–35°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Belagavi,150 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Davangere,90 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Chikkamagaluru,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Kolar,120 days,25–30°C
+Rice,Red Loamy,Blast,Crop Rotation,Drip Irrigation,Kalaburagi,120 days,25–30°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Dakshina Kannada,120 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Chikkamagaluru,90 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Kalaburagi,90 days,20–25°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Kolar,120 days,25–30°C
+Rice,Red Loamy,Blast,Crop Rotation,SRI Method,Bagalkote,150 days,30–35°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Chitradurga,120 days,20–25°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Mandya,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Chikkamagaluru,120 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Chikkamagaluru,90 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Raichur,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Bagalkote,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Mysuru,180 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Raichur,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Belagavi,180 days,30–35°C
+Rice,Black Cotton,Blast,Fungicide Spray,SRI Method,Kodagu,120 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Shivamogga,180 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Drip Irrigation,Bengaluru Urban,90 days,30–35°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Dharwad,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Organic Farming,Kodagu,120 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Ballari,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Vijayapura,180 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Mandya,120 days,30–35°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Vijayapura,180 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Kodagu,150 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Kalaburagi,120 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Ballari,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Belagavi,120 days,25–30°C
+Maize,Black Cotton,Smut,Resistant Varieties,Mulching,Kolar,90 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Belagavi,90 days,25–30°C
+Rice,Alluvial,Blast,Crop Rotation,Drip Irrigation,Kalaburagi,120 days,25–30°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Udupi,150 days,25–30°C
+Rice,Red Loamy,Smut,Fungicide Spray,SRI Method,Kodagu,150 days,25–30°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Bagalkote,120 days,25–30°C
+Groundnut,Laterite,Wilt,Fungicide Spray,Organic Farming,Bengaluru Urban,150 days,25–30°C
+Groundnut,Alluvial,Rust,Fungicide Spray,Mulching,Bagalkote,150 days,25–30°C
+Groundnut,Laterite,Rust,Resistant Varieties,Mulching,Mandya,120 days,25–30°C
+Rice,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Bagalkote,120 days,25–30°C
+Rice,Red Loamy,Blast,Crop Rotation,Drip Irrigation,Kalaburagi,150 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Ballari,120 days,25–30°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Kalaburagi,120 days,30–35°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Organic Farming,Chitradurga,120 days,25–30°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Mulching,Raichur,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Kolar,180 days,30–35°C
+Rice,Red Loamy,Smut,Crop Rotation,SRI Method,Bengaluru Rural,120 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Kolar,150 days,30–35°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Davangere,180 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Organic Farming,Vijayapura,120 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Dakshina Kannada,150 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Dharwad,150 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Kodagu,180 days,30–35°C
+Rice,Alluvial,Smut,Crop Rotation,Drip Irrigation,Bengaluru Rural,120 days,30–35°C
+Rice,Alluvial,Blast,Fungicide Spray,Drip Irrigation,Mandya,120 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Belagavi,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Chikkamagaluru,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Belagavi,120 days,20–25°C
+Groundnut,Alluvial,Rust,Crop Rotation,Mulching,Bengaluru Rural,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Mysuru,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Vijayapura,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Organic Farming,Chikkamagaluru,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Kolar,180 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Dharwad,120 days,25–30°C
+Rice,Red Loamy,Smut,Fungicide Spray,SRI Method,Kodagu,120 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Kodagu,150 days,30–35°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Bengaluru Rural,90 days,20–25°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Udupi,120 days,20–25°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Mulching,Kalaburagi,180 days,30–35°C
+Maize,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Bagalkote,90 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Mandya,120 days,20–25°C
+Rice,Black Cotton,Blast,Fungicide Spray,SRI Method,Bagalkote,150 days,30–35°C
+Rice,Red Loamy,Smut,Fungicide Spray,SRI Method,Bengaluru Urban,120 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Kolar,150 days,30–35°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Mulching,Dakshina Kannada,120 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Ballari,90 days,25–30°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Dakshina Kannada,90 days,30–35°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Mulching,Kolar,120 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Davangere,90 days,20–25°C
+Rice,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Bengaluru Rural,180 days,25–30°C
+Rice,Alluvial,Smut,Fungicide Spray,SRI Method,Tumakuru,180 days,25–30°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Tumakuru,90 days,25–30°C
+Maize,Black Cotton,Smut,Resistant Varieties,Mulching,Udupi,90 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Davangere,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Kolar,180 days,30–35°C
+Groundnut,Laterite,Rust,Resistant Varieties,Organic Farming,Kodagu,120 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Belagavi,90 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Chitradurga,90 days,30–35°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Dakshina Kannada,120 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Kodagu,120 days,25–30°C
+Rice,Red Loamy,Smut,Crop Rotation,SRI Method,Dakshina Kannada,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Vijayapura,180 days,30–35°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Mulching,Mysuru,120 days,25–30°C
+Rice,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Rice,Black Cotton,Smut,Crop Rotation,SRI Method,Kodagu,120 days,30–35°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Davangere,90 days,20–25°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Shivamogga,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Bengaluru Rural,180 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Dharwad,90 days,30–35°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Mulching,Ballari,90 days,20–25°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Kolar,180 days,30–35°C
+Groundnut,Laterite,Rust,Resistant Varieties,Organic Farming,Kalaburagi,120 days,25–30°C
+Rice,Black Cotton,Blast,Crop Rotation,Drip Irrigation,Dakshina Kannada,150 days,30–35°C
+Rice,Red Loamy,Smut,Crop Rotation,SRI Method,Mysuru,180 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Mysuru,120 days,25–30°C
+Maize,Black Cotton,Smut,Resistant Varieties,Mulching,Davangere,90 days,30–35°C
+Rice,Alluvial,Blast,Resistant Varieties,SRI Method,Bengaluru Rural,150 days,25–30°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Mulching,Belagavi,120 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Organic Farming,Davangere,150 days,25–30°C
+Rice,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Belagavi,120 days,25–30°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Chitradurga,120 days,30–35°C
+Rice,Red Loamy,Smut,Resistant Varieties,SRI Method,Ballari,120 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Belagavi,180 days,30–35°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Shivamogga,90 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Bagalkote,180 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Belagavi,90 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Raichur,90 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Tumakuru,90 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Kalaburagi,180 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Tumakuru,90 days,20–25°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Chitradurga,90 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Chitradurga,90 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Mandya,180 days,30–35°C
+Rice,Alluvial,Smut,Crop Rotation,Drip Irrigation,Tumakuru,150 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Chitradurga,150 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Dakshina Kannada,120 days,20–25°C
+Rice,Alluvial,Smut,Crop Rotation,Drip Irrigation,Mysuru,180 days,25–30°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Mulching,Mandya,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Mulching,Udupi,150 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Mysuru,120 days,25–30°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Mulching,Kolar,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Raichur,90 days,25–30°C
+Groundnut,Laterite,Rust,Fungicide Spray,Mulching,Kolar,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Mandya,120 days,20–25°C
+Maize,Red Loamy,Rust,Crop Rotation,Drip Irrigation,Kodagu,90 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Mysuru,90 days,25–30°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Mulching,Shivamogga,90 days,25–30°C
+Rice,Red Loamy,Blast,Resistant Varieties,SRI Method,Kolar,120 days,25–30°C
+Maize,Black Cotton,Rust,Fungicide Spray,Drip Irrigation,Udupi,90 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Kolar,180 days,30–35°C
+Rice,Red Loamy,Blast,Crop Rotation,SRI Method,Raichur,180 days,25–30°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Chikkamagaluru,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Mandya,180 days,30–35°C
+Groundnut,Laterite,Wilt,Crop Rotation,Organic Farming,Shivamogga,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Chitradurga,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Kalaburagi,120 days,20–25°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Bengaluru Rural,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Davangere,180 days,30–35°C
+Rice,Black Cotton,Smut,Crop Rotation,SRI Method,Mysuru,180 days,25–30°C
+Groundnut,Laterite,Wilt,Crop Rotation,Mulching,Kodagu,120 days,25–30°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Organic Farming,Mandya,120 days,25–30°C
+Groundnut,Alluvial,Rust,Fungicide Spray,Mulching,Bengaluru Urban,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Bengaluru Urban,90 days,20–25°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Organic Farming,Mandya,120 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Tumakuru,90 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Kodagu,180 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Mysuru,150 days,25–30°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Chitradurga,150 days,25–30°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Mulching,Davangere,150 days,25–30°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Mulching,Chitradurga,120 days,25–30°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Raichur,90 days,20–25°C
+Maize,Black Cotton,Rust,Resistant Varieties,Drip Irrigation,Chikkamagaluru,90 days,30–35°C
+Rice,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Davangere,120 days,30–35°C
+Rice,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Vijayapura,150 days,30–35°C
+Groundnut,Alluvial,Rust,Crop Rotation,Mulching,Dakshina Kannada,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Raichur,180 days,30–35°C
+Rice,Black Cotton,Blast,Fungicide Spray,Drip Irrigation,Kolar,120 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Shivamogga,180 days,30–35°C
+Groundnut,Laterite,Rust,Crop Rotation,Mulching,Vijayapura,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Rice,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Davangere,120 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Bengaluru Rural,90 days,25–30°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Shivamogga,90 days,20–25°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Mulching,Kalaburagi,180 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Vijayapura,120 days,20–25°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Bengaluru Urban,90 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Mulching,Kalaburagi,120 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Mandya,120 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Organic Farming,Tumakuru,120 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Dakshina Kannada,90 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Shivamogga,180 days,30–35°C
+Rice,Red Loamy,Smut,Crop Rotation,SRI Method,Kodagu,150 days,25–30°C
+Rice,Red Loamy,Smut,Resistant Varieties,SRI Method,Chitradurga,180 days,25–30°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Mulching,Chikkamagaluru,120 days,25–30°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Organic Farming,Bagalkote,150 days,25–30°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Organic Farming,Ballari,120 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Mulching,Shivamogga,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Dharwad,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Chikkamagaluru,180 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Dharwad,150 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Vijayapura,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Vijayapura,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Mulching,Bengaluru Rural,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Mulching,Bagalkote,120 days,20–25°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Tumakuru,90 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Mandya,120 days,30–35°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Drip Irrigation,Dharwad,180 days,30–35°C
+Groundnut,Laterite,Rust,Resistant Varieties,Mulching,Bengaluru Urban,120 days,25–30°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Organic Farming,Kodagu,150 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Udupi,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Davangere,90 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Chikkamagaluru,90 days,20–25°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Belagavi,90 days,20–25°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Mulching,Udupi,120 days,20–25°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Chitradurga,150 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Shivamogga,180 days,30–35°C
+Rice,Black Cotton,Blast,Fungicide Spray,Drip Irrigation,Udupi,180 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Mandya,90 days,30–35°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Kolar,180 days,30–35°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Mysuru,120 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Chitradurga,90 days,20–25°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Dharwad,180 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Shivamogga,90 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Kolar,120 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Dakshina Kannada,120 days,25–30°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Raichur,120 days,30–35°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Drip Irrigation,Kolar,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Kodagu,120 days,25–30°C
+Rice,Black Cotton,Blast,Fungicide Spray,Drip Irrigation,Bagalkote,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Mysuru,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Mulching,Raichur,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Bagalkote,90 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Drip Irrigation,Chitradurga,180 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Ballari,90 days,25–30°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Organic Farming,Tumakuru,120 days,25–30°C
+Rice,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Dakshina Kannada,120 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Belagavi,150 days,25–30°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Davangere,90 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Vijayapura,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Chikkamagaluru,90 days,25–30°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Mulching,Dharwad,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Chitradurga,120 days,25–30°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Organic Farming,Kalaburagi,150 days,25–30°C
+Rice,Red Loamy,Smut,Crop Rotation,SRI Method,Chitradurga,120 days,25–30°C
+Rice,Red Loamy,Blast,Crop Rotation,Drip Irrigation,Davangere,150 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Mandya,150 days,30–35°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Ballari,120 days,20–25°C
+Rice,Alluvial,Smut,Crop Rotation,SRI Method,Ballari,120 days,30–35°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Kolar,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Shivamogga,180 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Bengaluru Rural,150 days,30–35°C
+Rice,Black Cotton,Smut,Crop Rotation,SRI Method,Udupi,180 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Drip Irrigation,Vijayapura,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Shivamogga,150 days,25–30°C
+Groundnut,Laterite,Rust,Resistant Varieties,Mulching,Davangere,120 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Chitradurga,120 days,30–35°C
+Groundnut,Alluvial,Rust,Crop Rotation,Mulching,Kalaburagi,150 days,25–30°C
+Rice,Alluvial,Blast,Fungicide Spray,Drip Irrigation,Chikkamagaluru,180 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Kodagu,120 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Chitradurga,150 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Drip Irrigation,Davangere,90 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Chitradurga,150 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Tumakuru,120 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Ballari,150 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Chitradurga,150 days,30–35°C
+Rice,Red Loamy,Blast,Crop Rotation,Drip Irrigation,Chikkamagaluru,180 days,25–30°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Organic Farming,Kolar,120 days,25–30°C
+Rice,Red Loamy,Blast,Fungicide Spray,Drip Irrigation,Bengaluru Rural,120 days,30–35°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Bengaluru Urban,180 days,25–30°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Mysuru,120 days,30–35°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Organic Farming,Mysuru,150 days,25–30°C
+Rice,Black Cotton,Blast,Resistant Varieties,SRI Method,Vijayapura,120 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Dakshina Kannada,120 days,20–25°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Raichur,90 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Mulching,Udupi,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Shivamogga,90 days,20–25°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Vijayapura,90 days,25–30°C
+Rice,Alluvial,Smut,Crop Rotation,SRI Method,Dharwad,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Mulching,Udupi,180 days,30–35°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Bagalkote,180 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Drip Irrigation,Bengaluru Rural,90 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Tumakuru,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Belagavi,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Mysuru,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Kalaburagi,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Dharwad,90 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Bengaluru Urban,120 days,20–25°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Organic Farming,Dakshina Kannada,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Kalaburagi,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Drip Irrigation,Chitradurga,180 days,30–35°C
+Groundnut,Alluvial,Rust,Fungicide Spray,Mulching,Belagavi,150 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Organic Farming,Chitradurga,90 days,20–25°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Chikkamagaluru,150 days,30–35°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Organic Farming,Mysuru,90 days,20–25°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Bagalkote,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Bagalkote,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Chikkamagaluru,150 days,25–30°C
+Groundnut,Laterite,Rust,Resistant Varieties,Organic Farming,Bengaluru Rural,150 days,25–30°C
+Rice,Black Cotton,Blast,Crop Rotation,Drip Irrigation,Tumakuru,120 days,30–35°C
+Rice,Red Loamy,Blast,Fungicide Spray,SRI Method,Kolar,180 days,25–30°C
+Maize,Red Loamy,Smut,Resistant Varieties,Mulching,Bagalkote,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Ballari,180 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Kolar,90 days,20–25°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Tumakuru,120 days,30–35°C
+Maize,Red Loamy,Smut,Resistant Varieties,Mulching,Dharwad,90 days,30–35°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Tumakuru,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Ballari,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Mulching,Chitradurga,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Mulching,Dharwad,90 days,20–25°C
+Rice,Alluvial,Smut,Crop Rotation,SRI Method,Bagalkote,150 days,30–35°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Mulching,Belagavi,150 days,25–30°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Mysuru,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Bagalkote,90 days,25–30°C
+Rice,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Dharwad,150 days,30–35°C
+Rice,Alluvial,Blast,Resistant Varieties,SRI Method,Bengaluru Urban,150 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Tumakuru,120 days,25–30°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Kolar,150 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Raichur,90 days,20–25°C
+Groundnut,Laterite,Wilt,Crop Rotation,Mulching,Udupi,120 days,25–30°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Mulching,Dakshina Kannada,120 days,25–30°C
+Groundnut,Laterite,Wilt,Fungicide Spray,Mulching,Bengaluru Rural,150 days,25–30°C
+Rice,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Kalaburagi,180 days,25–30°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Mulching,Mandya,150 days,25–30°C
+Rice,Red Loamy,Blast,Crop Rotation,SRI Method,Udupi,180 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Vijayapura,150 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Organic Farming,Shivamogga,150 days,25–30°C
+Rice,Alluvial,Smut,Crop Rotation,SRI Method,Dharwad,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Bengaluru Rural,90 days,20–25°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Raichur,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Kalaburagi,90 days,20–25°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Drip Irrigation,Chikkamagaluru,180 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Kolar,120 days,25–30°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Mulching,Dharwad,120 days,25–30°C
+Rice,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Raichur,180 days,25–30°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Mulching,Belagavi,150 days,25–30°C
+Groundnut,Laterite,Wilt,Crop Rotation,Mulching,Vijayapura,150 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Kalaburagi,150 days,30–35°C
+Rice,Black Cotton,Blast,Crop Rotation,Drip Irrigation,Belagavi,120 days,25–30°C
+Rice,Black Cotton,Blast,Resistant Varieties,SRI Method,Chikkamagaluru,120 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Mulching,Bengaluru Rural,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Udupi,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Kodagu,180 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Drip Irrigation,Vijayapura,120 days,25–30°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Chikkamagaluru,120 days,20–25°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Bengaluru Rural,90 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Mulching,Chikkamagaluru,120 days,25–30°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Tumakuru,120 days,25–30°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Mulching,Bengaluru Urban,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Kolar,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Bagalkote,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Shivamogga,180 days,30–35°C
+Groundnut,Laterite,Rust,Crop Rotation,Organic Farming,Dakshina Kannada,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Kodagu,180 days,30–35°C
+Rice,Alluvial,Blast,Fungicide Spray,SRI Method,Bengaluru Rural,120 days,30–35°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Chikkamagaluru,180 days,30–35°C
+Maize,Red Loamy,Rust,Crop Rotation,Drip Irrigation,Bengaluru Rural,90 days,25–30°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Mulching,Shivamogga,90 days,25–30°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Mulching,Shivamogga,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Mulching,Mandya,180 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Mandya,120 days,30–35°C
+Rice,Black Cotton,Blast,Crop Rotation,SRI Method,Dharwad,120 days,25–30°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Mulching,Tumakuru,90 days,20–25°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Dharwad,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Dakshina Kannada,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Organic Farming,Chikkamagaluru,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Bengaluru Urban,180 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Kodagu,150 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Shivamogga,90 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Drip Irrigation,Kodagu,150 days,25–30°C
+Rice,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Udupi,120 days,30–35°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Mulching,Kolar,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Ballari,180 days,30–35°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Davangere,150 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Udupi,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Organic Farming,Kalaburagi,90 days,25–30°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Organic Farming,Shivamogga,120 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Ballari,90 days,20–25°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Bagalkote,180 days,30–35°C
+Rice,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Raichur,180 days,30–35°C
+Rice,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Dharwad,150 days,25–30°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Mulching,Mandya,150 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Organic Farming,Udupi,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Tumakuru,180 days,30–35°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Organic Farming,Mysuru,120 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Kolar,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Bengaluru Urban,180 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Kalaburagi,120 days,25–30°C
+Rice,Black Cotton,Blast,Fungicide Spray,SRI Method,Kodagu,150 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Shivamogga,90 days,30–35°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Mulching,Belagavi,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Shivamogga,180 days,30–35°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Dharwad,120 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Dharwad,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Shivamogga,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Organic Farming,Mysuru,120 days,25–30°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Raichur,120 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Mandya,90 days,20–25°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Mulching,Belagavi,150 days,25–30°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Ballari,120 days,25–30°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Tumakuru,150 days,25–30°C
+Rice,Alluvial,Smut,Crop Rotation,SRI Method,Raichur,180 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Belagavi,90 days,20–25°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Kolar,90 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Mysuru,90 days,25–30°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Mulching,Mysuru,120 days,25–30°C
+Rice,Alluvial,Smut,Resistant Varieties,SRI Method,Bengaluru Urban,120 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Drip Irrigation,Dharwad,120 days,25–30°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Mandya,120 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Mysuru,120 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Drip Irrigation,Kalaburagi,90 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Belagavi,90 days,20–25°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Belagavi,90 days,25–30°C
+Rice,Red Loamy,Blast,Crop Rotation,Drip Irrigation,Mandya,150 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Raichur,120 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Tumakuru,90 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Drip Irrigation,Davangere,150 days,25–30°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Organic Farming,Davangere,120 days,25–30°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Shivamogga,180 days,25–30°C
+Rice,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Kodagu,120 days,30–35°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Organic Farming,Davangere,150 days,25–30°C
+Rice,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Belagavi,150 days,30–35°C
+Rice,Alluvial,Blast,Fungicide Spray,SRI Method,Chitradurga,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Organic Farming,Bengaluru Rural,120 days,25–30°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Dharwad,120 days,25–30°C
+Groundnut,Laterite,Rust,Crop Rotation,Organic Farming,Kalaburagi,150 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Kolar,120 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Chikkamagaluru,150 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Tumakuru,90 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Mandya,120 days,20–25°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Davangere,90 days,25–30°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Mysuru,150 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Belagavi,180 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Bagalkote,150 days,30–35°C
+Rice,Red Loamy,Blast,Crop Rotation,SRI Method,Davangere,180 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Mandya,120 days,30–35°C
+Rice,Black Cotton,Blast,Crop Rotation,SRI Method,Ballari,150 days,30–35°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Organic Farming,Mysuru,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Udupi,180 days,30–35°C
+Rice,Alluvial,Blast,Fungicide Spray,Drip Irrigation,Chikkamagaluru,120 days,25–30°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Kolar,150 days,25–30°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Dakshina Kannada,120 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Dharwad,150 days,30–35°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Ballari,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Organic Farming,Raichur,120 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Organic Farming,Mandya,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Mandya,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Chitradurga,120 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Vijayapura,150 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Drip Irrigation,Davangere,90 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Kolar,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Mulching,Chikkamagaluru,180 days,30–35°C
+Groundnut,Laterite,Wilt,Crop Rotation,Organic Farming,Vijayapura,150 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Kalaburagi,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Drip Irrigation,Ballari,180 days,30–35°C
+Rice,Red Loamy,Smut,Crop Rotation,SRI Method,Mandya,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Shivamogga,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Mandya,180 days,30–35°C
+Groundnut,Laterite,Wilt,Fungicide Spray,Mulching,Dharwad,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Mandya,180 days,30–35°C
+Rice,Black Cotton,Blast,Resistant Varieties,SRI Method,Bengaluru Urban,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Mulching,Shivamogga,180 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Organic Farming,Bengaluru Urban,120 days,20–25°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Vijayapura,120 days,20–25°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Chitradurga,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Tumakuru,180 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Kalaburagi,120 days,25–30°C
+Groundnut,Laterite,Rust,Resistant Varieties,Mulching,Shivamogga,150 days,25–30°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Mandya,150 days,25–30°C
+Rice,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Dharwad,120 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Chitradurga,90 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Drip Irrigation,Vijayapura,90 days,30–35°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Bengaluru Urban,150 days,25–30°C
+Rice,Red Loamy,Blast,Resistant Varieties,Drip Irrigation,Belagavi,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Tumakuru,120 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Mandya,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Mysuru,180 days,30–35°C
+Groundnut,Laterite,Rust,Fungicide Spray,Organic Farming,Kodagu,150 days,25–30°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Organic Farming,Davangere,120 days,20–25°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Kodagu,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Mulching,Bagalkote,90 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Dharwad,180 days,30–35°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Mulching,Vijayapura,120 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Davangere,90 days,25–30°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Mulching,Kodagu,150 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Mulching,Tumakuru,150 days,25–30°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Belagavi,120 days,30–35°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Ballari,120 days,20–25°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Organic Farming,Dharwad,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Organic Farming,Mysuru,90 days,25–30°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Chitradurga,180 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Shivamogga,120 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Bengaluru Urban,150 days,30–35°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Organic Farming,Kalaburagi,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Drip Irrigation,Mandya,180 days,30–35°C
+Rice,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Vijayapura,120 days,25–30°C
+Rice,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Dakshina Kannada,120 days,30–35°C
+Rice,Black Cotton,Blast,Crop Rotation,SRI Method,Davangere,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Drip Irrigation,Chikkamagaluru,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Vijayapura,120 days,20–25°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Mulching,Udupi,120 days,25–30°C
+Rice,Alluvial,Blast,Fungicide Spray,SRI Method,Ballari,180 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Dakshina Kannada,150 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Bengaluru Rural,120 days,20–25°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Bengaluru Urban,120 days,25–30°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Mulching,Davangere,150 days,25–30°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Kodagu,90 days,20–25°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Bagalkote,150 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Udupi,120 days,25–30°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Kalaburagi,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Ballari,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Organic Farming,Raichur,150 days,25–30°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Mulching,Mysuru,120 days,25–30°C
+Rice,Alluvial,Blast,Resistant Varieties,Drip Irrigation,Chitradurga,150 days,25–30°C
+Rice,Black Cotton,Blast,Fungicide Spray,SRI Method,Raichur,150 days,30–35°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Ballari,120 days,30–35°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Organic Farming,Dakshina Kannada,150 days,25–30°C
+Rice,Alluvial,Smut,Crop Rotation,Drip Irrigation,Dharwad,120 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Davangere,150 days,30–35°C
+Groundnut,Laterite,Rust,Fungicide Spray,Mulching,Raichur,120 days,25–30°C
+Rice,Red Loamy,Blast,Fungicide Spray,Drip Irrigation,Bengaluru Urban,150 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Vijayapura,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Dakshina Kannada,120 days,20–25°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Bengaluru Rural,180 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Chitradurga,150 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Tumakuru,90 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Dharwad,120 days,25–30°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Organic Farming,Vijayapura,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Mysuru,180 days,30–35°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Mulching,Bagalkote,150 days,25–30°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Shivamogga,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Udupi,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Dharwad,90 days,25–30°C
+Rice,Alluvial,Blast,Crop Rotation,Drip Irrigation,Mysuru,150 days,25–30°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Mulching,Belagavi,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Raichur,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Bengaluru Rural,120 days,25–30°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Organic Farming,Vijayapura,150 days,25–30°C
+Maize,Red Loamy,Smut,Resistant Varieties,Mulching,Vijayapura,150 days,25–30°C
+Rice,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Mandya,180 days,25–30°C
+Rice,Red Loamy,Smut,Resistant Varieties,SRI Method,Belagavi,120 days,30–35°C
+Groundnut,Laterite,Rust,Crop Rotation,Organic Farming,Kodagu,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Bagalkote,120 days,25–30°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Organic Farming,Kalaburagi,120 days,25–30°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Mandya,120 days,25–30°C
+Rice,Red Loamy,Blast,Fungicide Spray,Drip Irrigation,Mysuru,180 days,25–30°C
+Groundnut,Laterite,Wilt,Crop Rotation,Organic Farming,Dakshina Kannada,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Udupi,180 days,30–35°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Udupi,90 days,30–35°C
+Groundnut,Laterite,Rust,Crop Rotation,Mulching,Kalaburagi,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Mulching,Shivamogga,180 days,30–35°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Bengaluru Rural,150 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Udupi,120 days,25–30°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Mulching,Tumakuru,120 days,20–25°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Bengaluru Urban,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Mulching,Belagavi,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Vijayapura,150 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Chitradurga,150 days,30–35°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Bengaluru Urban,90 days,20–25°C
+Groundnut,Laterite,Rust,Resistant Varieties,Mulching,Kalaburagi,120 days,25–30°C
+Rice,Alluvial,Smut,Crop Rotation,SRI Method,Mandya,180 days,30–35°C
+Maize,Black Cotton,Rust,Resistant Varieties,Drip Irrigation,Dakshina Kannada,120 days,30–35°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Kodagu,90 days,30–35°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Belagavi,150 days,25–30°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Ballari,90 days,20–25°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Tumakuru,90 days,20–25°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Mysuru,180 days,25–30°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Dharwad,90 days,20–25°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Kalaburagi,90 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Chitradurga,120 days,20–25°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Mulching,Bengaluru Rural,150 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Organic Farming,Tumakuru,120 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Davangere,90 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Mulching,Bengaluru Rural,180 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Udupi,120 days,25–30°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Raichur,90 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Udupi,90 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Kolar,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Mulching,Bagalkote,180 days,30–35°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Mulching,Tumakuru,180 days,30–35°C
+Rice,Black Cotton,Smut,Crop Rotation,SRI Method,Mandya,180 days,25–30°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Kodagu,120 days,25–30°C
+Maize,Red Loamy,Rust,Resistant Varieties,Mulching,Dharwad,90 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Mulching,Udupi,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Mysuru,180 days,30–35°C
+Rice,Alluvial,Blast,Fungicide Spray,SRI Method,Raichur,120 days,30–35°C
+Maize,Red Loamy,Rust,Crop Rotation,Drip Irrigation,Mandya,90 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Udupi,150 days,30–35°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Kolar,120 days,25–30°C
+Groundnut,Alluvial,Rust,Fungicide Spray,Mulching,Tumakuru,150 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Belagavi,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Kodagu,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Vijayapura,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Organic Farming,Kodagu,90 days,25–30°C
+Rice,Red Loamy,Blast,Resistant Varieties,SRI Method,Davangere,150 days,30–35°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Raichur,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Mulching,Mysuru,180 days,30–35°C
+Rice,Alluvial,Blast,Resistant Varieties,Drip Irrigation,Belagavi,120 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Drip Irrigation,Shivamogga,90 days,30–35°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Mulching,Bengaluru Urban,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Mandya,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Mulching,Vijayapura,180 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Chikkamagaluru,90 days,30–35°C
+Rice,Red Loamy,Blast,Resistant Varieties,Drip Irrigation,Raichur,150 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Drip Irrigation,Belagavi,150 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Kolar,90 days,25–30°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Mulching,Bengaluru Urban,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Dakshina Kannada,90 days,20–25°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Dakshina Kannada,90 days,25–30°C
+Rice,Red Loamy,Blast,Crop Rotation,Drip Irrigation,Bengaluru Urban,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Dharwad,120 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Mulching,Bagalkote,120 days,25–30°C
+Rice,Black Cotton,Blast,Crop Rotation,Drip Irrigation,Kolar,150 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Chikkamagaluru,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Organic Farming,Kodagu,120 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Dakshina Kannada,90 days,20–25°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Kodagu,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Mulching,Raichur,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Chitradurga,180 days,30–35°C
+Rice,Alluvial,Smut,Resistant Varieties,SRI Method,Kolar,150 days,30–35°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Shivamogga,120 days,20–25°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Shivamogga,120 days,25–30°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Kolar,120 days,20–25°C
+Groundnut,Alluvial,Rust,Fungicide Spray,Organic Farming,Ballari,150 days,25–30°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Drip Irrigation,Belagavi,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Organic Farming,Kalaburagi,150 days,25–30°C
+Rice,Red Loamy,Blast,Crop Rotation,SRI Method,Bagalkote,150 days,30–35°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Ballari,90 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Kodagu,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Crop Rotation,Mulching,Chikkamagaluru,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Chikkamagaluru,120 days,25–30°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Mulching,Bengaluru Urban,150 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Bengaluru Rural,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Drip Irrigation,Vijayapura,180 days,30–35°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Kalaburagi,90 days,20–25°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Shivamogga,90 days,20–25°C
+Rice,Black Cotton,Blast,Resistant Varieties,SRI Method,Shivamogga,150 days,30–35°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Organic Farming,Chikkamagaluru,120 days,25–30°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Mulching,Chitradurga,150 days,25–30°C
+Rice,Black Cotton,Blast,Crop Rotation,SRI Method,Kodagu,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Organic Farming,Raichur,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Mulching,Davangere,180 days,30–35°C
+Groundnut,Alluvial,Rust,Fungicide Spray,Organic Farming,Dharwad,150 days,25–30°C
+Rice,Red Loamy,Blast,Fungicide Spray,SRI Method,Dharwad,150 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Bengaluru Urban,90 days,25–30°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Organic Farming,Tumakuru,150 days,25–30°C
+Rice,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Udupi,120 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Mysuru,180 days,30–35°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Kodagu,120 days,30–35°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Bengaluru Urban,90 days,30–35°C
+Rice,Alluvial,Smut,Crop Rotation,Drip Irrigation,Davangere,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Bagalkote,180 days,30–35°C
+Groundnut,Alluvial,Wilt,Fungicide Spray,Mulching,Bengaluru Rural,150 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Vijayapura,90 days,30–35°C
+Rice,Black Cotton,Blast,Resistant Varieties,SRI Method,Kolar,150 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Mulching,Raichur,90 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Drip Irrigation,Bengaluru Rural,150 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Belagavi,180 days,30–35°C
+Rice,Black Cotton,Blast,Crop Rotation,Drip Irrigation,Tumakuru,150 days,30–35°C
+Groundnut,Alluvial,Wilt,Crop Rotation,Mulching,Bengaluru Urban,150 days,25–30°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Organic Farming,Dakshina Kannada,150 days,25–30°C
+Rice,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Chikkamagaluru,180 days,25–30°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Mysuru,90 days,25–30°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Mulching,Belagavi,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Ballari,180 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Vijayapura,150 days,25–30°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Ballari,120 days,25–30°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Kalaburagi,150 days,25–30°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Udupi,120 days,25–30°C
+Rice,Alluvial,Blast,Resistant Varieties,SRI Method,Tumakuru,180 days,30–35°C
+Rice,Alluvial,Smut,Crop Rotation,Drip Irrigation,Bengaluru Urban,120 days,25–30°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Organic Farming,Kodagu,120 days,25–30°C
+Rice,Red Loamy,Blast,Fungicide Spray,Drip Irrigation,Kolar,180 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Mandya,120 days,25–30°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Bengaluru Urban,150 days,25–30°C
+Groundnut,Alluvial,Wilt,Resistant Varieties,Organic Farming,Raichur,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Mysuru,180 days,30–35°C
+Rice,Black Cotton,Blast,Resistant Varieties,Drip Irrigation,Chikkamagaluru,180 days,25–30°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Organic Farming,Ballari,150 days,25–30°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Tumakuru,180 days,30–35°C
+Groundnut,Laterite,Wilt,Fungicide Spray,Mulching,Ballari,150 days,25–30°C
+Rice,Black Cotton,Blast,Crop Rotation,SRI Method,Ballari,120 days,25–30°C
+Maize,Black Cotton,Rust,Fungicide Spray,Mulching,Kolar,90 days,25–30°C
+Rice,Alluvial,Smut,Crop Rotation,Drip Irrigation,Chikkamagaluru,120 days,25–30°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Vijayapura,90 days,25–30°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Organic Farming,Kolar,120 days,20–25°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Organic Farming,Chikkamagaluru,90 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Shivamogga,180 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Mulching,Davangere,120 days,20–25°C
+Rice,Alluvial,Smut,Crop Rotation,SRI Method,Kalaburagi,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Bengaluru Rural,180 days,30–35°C
+Rice,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Dakshina Kannada,120 days,30–35°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Organic Farming,Chitradurga,90 days,20–25°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Drip Irrigation,Mysuru,180 days,30–35°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Mulching,Kalaburagi,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Chitradurga,180 days,30–35°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Ballari,150 days,25–30°C
+Rice,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Belagavi,180 days,25–30°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Tumakuru,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Mulching,Dakshina Kannada,90 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Bengaluru Urban,180 days,30–35°C
+Maize,Black Cotton,Rust,Fungicide Spray,Drip Irrigation,Udupi,90 days,25–30°C
+Rice,Red Loamy,Blast,Resistant Varieties,SRI Method,Udupi,150 days,25–30°C
+Rice,Alluvial,Blast,Resistant Varieties,Drip Irrigation,Kodagu,120 days,30–35°C
+Rice,Alluvial,Blast,Crop Rotation,SRI Method,Shivamogga,120 days,25–30°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Chitradurga,180 days,30–35°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Mulching,Kalaburagi,120 days,20–25°C
+Finger Millet,Laterite,Rust,Crop Rotation,Organic Farming,Kalaburagi,90 days,25–30°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Organic Farming,Dakshina Kannada,150 days,25–30°C
+Groundnut,Red Loamy,Rust,Fungicide Spray,Organic Farming,Ballari,150 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Davangere,180 days,30–35°C
+Finger Millet,Red Loamy,Rust,Fungicide Spray,Organic Farming,Bengaluru Rural,120 days,25–30°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Bengaluru Rural,120 days,30–35°C
+Groundnut,Laterite,Rust,Resistant Varieties,Organic Farming,Dharwad,120 days,25–30°C
+Groundnut,Alluvial,Rust,Crop Rotation,Organic Farming,Davangere,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Mulching,Ballari,120 days,20–25°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Bengaluru Urban,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Resistant Varieties,Drip Irrigation,Dharwad,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Crop Rotation,Mulching,Kolar,90 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Tumakuru,180 days,30–35°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Mulching,Bengaluru Rural,150 days,25–30°C
+Maize,Red Loamy,Smut,Fungicide Spray,Mulching,Tumakuru,150 days,30–35°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Organic Farming,Bagalkote,120 days,25–30°C
+Rice,Red Loamy,Blast,Fungicide Spray,SRI Method,Mysuru,150 days,30–35°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Mandya,90 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Mulching,Tumakuru,120 days,25–30°C
+Rice,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Chitradurga,150 days,25–30°C
+Maize,Red Loamy,Rust,Fungicide Spray,Mulching,Bengaluru Rural,90 days,30–35°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Kodagu,120 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Drip Irrigation,Mandya,150 days,30–35°C
+Maize,Red Loamy,Rust,Crop Rotation,Mulching,Belagavi,150 days,30–35°C
+Rice,Black Cotton,Smut,Fungicide Spray,SRI Method,Kodagu,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Bengaluru Urban,180 days,30–35°C
+Finger Millet,Laterite,Blast,Crop Rotation,Organic Farming,Raichur,120 days,25–30°C
+Groundnut,Red Loamy,Wilt,Fungicide Spray,Organic Farming,Mandya,120 days,25–30°C
+Groundnut,Laterite,Rust,Crop Rotation,Organic Farming,Dharwad,120 days,25–30°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Bagalkote,150 days,25–30°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Kalaburagi,90 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Bengaluru Rural,150 days,25–30°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Dharwad,120 days,30–35°C
+Rice,Red Loamy,Smut,Fungicide Spray,Drip Irrigation,Bengaluru Urban,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Davangere,180 days,30–35°C
+Sugarcane,Black Cotton,Smut,Resistant Varieties,Mulching,Kodagu,180 days,30–35°C
+Sugarcane,Black Cotton,Wilt,Fungicide Spray,Mulching,Udupi,180 days,30–35°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Organic Farming,Ballari,120 days,25–30°C
+Finger Millet,Laterite,Blast,Resistant Varieties,Mulching,Dharwad,120 days,20–25°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Ballari,120 days,20–25°C
+Finger Millet,Laterite,Rust,Fungicide Spray,Organic Farming,Shivamogga,90 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Bagalkote,90 days,25–30°C
+Maize,Red Loamy,Smut,Resistant Varieties,Drip Irrigation,Kodagu,90 days,25–30°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Mulching,Vijayapura,120 days,25–30°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Dakshina Kannada,120 days,25–30°C
+Sugarcane,Alluvial,Wilt,Crop Rotation,Mulching,Dharwad,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Mulching,Belagavi,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Bagalkote,90 days,30–35°C
+Groundnut,Laterite,Wilt,Crop Rotation,Organic Farming,Chikkamagaluru,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Mulching,Kodagu,180 days,30–35°C
+Sugarcane,Alluvial,Smut,Fungicide Spray,Drip Irrigation,Udupi,180 days,30–35°C
+Groundnut,Laterite,Wilt,Resistant Varieties,Organic Farming,Chikkamagaluru,120 days,25–30°C
+Groundnut,Red Loamy,Wilt,Resistant Varieties,Organic Farming,Vijayapura,150 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Kolar,180 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Bengaluru Rural,90 days,25–30°C
+Finger Millet,Red Loamy,Rust,Resistant Varieties,Organic Farming,Davangere,120 days,20–25°C
+Rice,Red Loamy,Blast,Crop Rotation,Drip Irrigation,Bengaluru Rural,150 days,30–35°C
+Maize,Red Loamy,Rust,Fungicide Spray,Drip Irrigation,Bagalkote,120 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Drip Irrigation,Bagalkote,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Mulching,Ballari,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Davangere,90 days,25–30°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Mulching,Raichur,120 days,25–30°C
+Maize,Black Cotton,Rust,Resistant Varieties,Mulching,Mysuru,90 days,30–35°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Vijayapura,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Organic Farming,Belagavi,90 days,20–25°C
+Sugarcane,Black Cotton,Smut,Fungicide Spray,Mulching,Chitradurga,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Mulching,Davangere,150 days,30–35°C
+Sugarcane,Alluvial,Wilt,Resistant Varieties,Mulching,Dakshina Kannada,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Vijayapura,180 days,30–35°C
+Finger Millet,Laterite,Blast,Fungicide Spray,Organic Farming,Bagalkote,90 days,20–25°C
+Rice,Black Cotton,Smut,Resistant Varieties,SRI Method,Tumakuru,150 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Kalaburagi,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Drip Irrigation,Bengaluru Urban,180 days,30–35°C
+Maize,Black Cotton,Smut,Crop Rotation,Mulching,Davangere,150 days,30–35°C
+Finger Millet,Laterite,Rust,Crop Rotation,Mulching,Dharwad,90 days,20–25°C
+Groundnut,Red Loamy,Rust,Crop Rotation,Mulching,Kalaburagi,120 days,25–30°C
+Sugarcane,Black Cotton,Wilt,Crop Rotation,Drip Irrigation,Tumakuru,180 days,30–35°C
+Sugarcane,Alluvial,Wilt,Fungicide Spray,Mulching,Dharwad,180 days,30–35°C
+Finger Millet,Laterite,Rust,Resistant Varieties,Mulching,Chikkamagaluru,120 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Bengaluru Urban,120 days,30–35°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Mulching,Udupi,120 days,25–30°C
+Maize,Black Cotton,Smut,Resistant Varieties,Drip Irrigation,Bengaluru Rural,150 days,30–35°C
+Rice,Alluvial,Blast,Fungicide Spray,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Mulching,Dharwad,120 days,25–30°C
+Sugarcane,Black Cotton,Smut,Crop Rotation,Drip Irrigation,Dakshina Kannada,180 days,30–35°C
+Finger Millet,Red Loamy,Blast,Fungicide Spray,Mulching,Belagavi,90 days,20–25°C
+Rice,Alluvial,Smut,Resistant Varieties,SRI Method,Kalaburagi,120 days,25–30°C
+Rice,Alluvial,Smut,Resistant Varieties,Drip Irrigation,Kodagu,180 days,30–35°C
+Maize,Black Cotton,Rust,Crop Rotation,Drip Irrigation,Chikkamagaluru,120 days,30–35°C
+Finger Millet,Red Loamy,Rust,Crop Rotation,Mulching,Mandya,90 days,20–25°C
+Groundnut,Laterite,Rust,Crop Rotation,Organic Farming,Kolar,150 days,25–30°C
+Maize,Red Loamy,Smut,Crop Rotation,Mulching,Tumakuru,90 days,30–35°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Shivamogga,120 days,30–35°C
+Groundnut,Red Loamy,Rust,Resistant Varieties,Organic Farming,Vijayapura,150 days,25–30°C
+Rice,Alluvial,Smut,Resistant Varieties,SRI Method,Kodagu,120 days,30–35°C
+Finger Millet,Red Loamy,Blast,Resistant Varieties,Organic Farming,Kalaburagi,90 days,20–25°C
+Rice,Black Cotton,Smut,Crop Rotation,SRI Method,Tumakuru,150 days,25–30°C
+Maize,Black Cotton,Smut,Fungicide Spray,Drip Irrigation,Tumakuru,90 days,30–35°C
+Sugarcane,Alluvial,Smut,Crop Rotation,Drip Irrigation,Davangere,180 days,30–35°C
+Groundnut,Alluvial,Rust,Resistant Varieties,Organic Farming,Ballari,120 days,25–30°C
+Maize,Black Cotton,Rust,Fungicide Spray,Drip Irrigation,Kodagu,90 days,30–35°C
